@@ -3,4 +3,4 @@ Simple basic Four Grid Tic Tac Toe Android application. Made for my practice and
 
 ![WelcomeScreen](https://raw.githubusercontent.com/amirulhendra/FourGridTicTacToe/master/images/WelcomeButton.PNG)
 
-![MainActivity](https://github.com/amirulhendra/FourGridTicTacToe/blob/master/images/MainActivity.PNG?raw=true)
+![MainActivity](https://raw.githubusercontent.com/amirulhendra/FourGridTicTacToe/master/images/MainActivity.PNG)
